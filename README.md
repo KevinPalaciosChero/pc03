@@ -6,8 +6,8 @@ Esta parte es teórica (no requiere código): el producto evaluado es un mini RF
 
 ## Contenido
 
-- [`docs/PC03-RFC-Pagos-Tutorias.md`](./docs/PC03-RFC-Pagos-Tutorias.md) — RFC completo en Markdown (11 secciones: Contexto, Problema, Riesgos, Diseño propuesto, Alternativas, Contratos, Manejo de fallas, Observabilidad, Seguridad, Despliegue y costo, Decisión).
-- [`docs/PC03-RFC-Pagos-Tutorias.docx`](./docs/PC03-RFC-Pagos-Tutorias.docx) — mismo contenido en formato Word.
+- [`/PC03-RFC-Pagos-Tutorias.md`](./PC03-RFC-Pagos-Tutorias.md) — RFC completo en Markdown (11 secciones: Contexto, Problema, Riesgos, Diseño propuesto, Alternativas, Contratos, Manejo de fallas, Observabilidad, Seguridad, Despliegue y costo, Decisión).
+- [`/PC03-RFC-Pagos-Tutorias.docx`](./PC03-RFC-Pagos-Tutorias.docx) — mismo contenido en formato Word.
 
 ## Resumen de la decisión
 
